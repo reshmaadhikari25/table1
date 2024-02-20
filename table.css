@@ -1,0 +1,11 @@
+table,th,td{
+    border:2px solid rgb(37, 18, 21);
+
+}
+colouring
+{
+    background-color:aqua;
+}
+table{
+    background:linear-gradient(to bottom,rgb(114, 213, 174),rgb(190, 63, 195),rgb(100, 21, 150));
+}
